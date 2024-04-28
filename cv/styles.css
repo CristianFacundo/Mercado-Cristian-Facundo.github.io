@@ -17,3 +17,28 @@ body {
     background-color: rgb(12, 12, 12);
     color: #fff;
 }
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2em;
+}
+
+.brand {
+    margin-top: -7px;
+}
+
+.brand span {
+    color: rgb(218, 109, 25);
+}
+
+.menu {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+
+
+
+
+
