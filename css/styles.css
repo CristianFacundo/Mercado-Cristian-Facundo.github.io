@@ -14,8 +14,8 @@ body {
 .wrapper {
     width: 100vw;
     /* height: 100vh; */
-    background-color: rgb(12, 12, 12);
-    color: #fff;
+    background-color: rgb(3, 3, 3);
+    color: #c8a0e9;
 }
 
 .navbar {
@@ -29,7 +29,7 @@ body {
 }
 
 .brand span {
-    color: rgb(218, 109, 25);
+    color: rgb(196, 34, 13);
 }
 
 .menu {
@@ -44,18 +44,18 @@ body {
 }
 
 .menu a {
-    color: #fff;
+    color: #5629fc;
     text-decoration: none;
     padding: 10px 20px;
 }
 
 .menu .active {
-    color: rgb(225, 103, 10);
+    color: #5629fc;
 }
 
 .menu a:hover {
-    background-color: rgb(218, 109, 25);
-    color: #fff;
+    background-color: rgb(25, 60, 218);
+    color: #735df1;
     transition: ease-in .3s;
 }
 
@@ -86,12 +86,12 @@ span {
 
 .download-cv {
     padding: 10px 20px;
-    background-color: rgb(218, 109, 25);
+    background-color: rgb(60, 47, 241);
     border: none;
     border-radius: 20px;
     margin-top: 10px;
     cursor: pointer;
-    box-shadow: 1px 3px 11px -5px rgb(225, 103, 10);
+    box-shadow: 1px 3px 11px -5px rgb(233, 157, 81);
 }
 
 
@@ -102,7 +102,7 @@ span {
 
 .main img {
     width: 400px;
-    border: 7px solid rgb(218, 109, 25);
+    border: 7px solid rgb(43, 2, 97);
     margin: 3em;
 }
 
@@ -127,7 +127,7 @@ span {
 .divider {
     height: 4px;
     width: 60px;
-    background-color: rgb(218, 109, 25);
+    background-color: rgb(4, 12, 87);
     margin-top: 5px;
     margin-bottom: 2em;
 }
@@ -141,8 +141,8 @@ span {
 .portfolio,
 .contact-section {
     width: 100vw;
-    background-color: rgb(12, 12, 12);
-    color: #fff;
+    background-color: rgb(0, 0, 0);
+    color: #5629fc;
 }
 
 
@@ -170,7 +170,7 @@ span {
     width: 300px;
     height: 350px;
     color: #fff;
-    background-color: rgb(218, 109, 25);
+    background-color: rgb(38, 5, 116);
     margin: 1em;
 }
 
@@ -206,7 +206,7 @@ span {
 }
 
 .card__projects-links a {
-    color: #fff;
+    color: #ee1e1e;
     text-decoration: none;
 }
 
@@ -226,7 +226,7 @@ span {
 
 .card .project-details a {
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: rgb(58, 0, 0);
     text-transform: uppercase;
 }
 
@@ -268,8 +268,8 @@ span {
     margin-bottom: 1em;
     background: none;
     border: none;
-    border-bottom: 1px solid #fff;
-    color: #fff;
+    border-bottom: 1px solid #1f0066;
+    color: #3201b6;
 }
 
 .form textarea {
@@ -286,14 +286,14 @@ span {
     margin: 1em;
     border: none;
     text-transform: uppercase;
-    background-color: rgb(218, 109, 25);
+    background-color: rgb(60, 5, 211);
     border-radius: 20px;
     cursor: pointer;
-    box-shadow: 1px 3px 11px -5px rgb(225, 103, 10);
+    box-shadow: 1px 3px 11px -5px rgb(24, 1, 77);
 }
 
 .btn-submit:hover {
-    background-color: #fff;
+    background-color: #0e0242;
     box-shadow: none;
 }
 
@@ -306,7 +306,7 @@ span {
     align-items: center;
     width: 100vw;
     height: 200px;
-    background-color: rgb(218, 109, 25);
+    background-color: rgb(39, 3, 97);
 }
 
 .footer-content h2 {
@@ -333,11 +333,11 @@ span {
 
 .social-network a {
     padding: 5px 10px;
-    color: black;
-    background-color: rgb(218, 109, 25);
+    color: rgb(0, 0, 0);
+    background-color: rgb(18, 4, 218);
     border: none;
     border-radius: 20px;
     margin-top: 10px;
     cursor: pointer;
-    box-shadow: 1px 3px 11px -5px rgb(225, 103, 10);
+    box-shadow: 1px 3px 11px -5px rgb(224, 191, 166);
 }
