@@ -99,6 +99,48 @@ span {
     box-shadow: none;
 }
 
+.main img {
+    width: 400px;
+    border: 7px solid rgb(218, 109, 25);
+    margin: 3em;
+}
+
+
+.about {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 100vw;
+    align-items: center;
+}
+
+.about-info {
+    grid-column: 5/10;
+    padding: 3em;
+}
+
+.about-info h2 {
+    font-size: 2em;
+    color: rgb(17, 16, 16);
+}
+
+.divider {
+    height: 4px;
+    width: 60px;
+    background-color: rgb(218, 109, 25);
+    margin-top: 5px;
+    margin-bottom: 2em;
+}
+
+.about p {
+    margin-bottom: 1em;
+}
+
+
+
+
+
+
+
 
 
 
