@@ -178,13 +178,14 @@ span {
 .card__img__1 {
     width: 100%;
     height: 150px;
-    background-image: url(/img/Portada_blog_ventajas_power_bi.png);
+    background-image: url(/img/database-performance-issues-scaled.jpeg);
     background-size: cover;
 }
 
 .card__img__2 {
     width: 100%;
     height: 150px;
+    background-image: url(/img/consulting-blog-09.webp);
     background-size: cover;
 }
 
