@@ -135,6 +135,107 @@ span {
     margin-bottom: 1em;
 }
 
+/* -----------------Card de projects--------------- */
+
+.portfolio,
+.contact-section {
+    width: 100vw;
+    background-color: rgb(12, 12, 12);
+    color: #fff;
+}
+
+
+
+.portfolio-headings {
+    width: 100vw;
+    padding: 5em;
+}
+
+.portfolio-headings h2 {
+    font-size: 2.5em;
+}
+
+.portfolio .container {
+    width: 80vw;
+    height: 65vh;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.card {
+    width: 300px;
+    height: 350px;
+    color: #fff;
+    background-color: rgb(218, 109, 25);
+    margin: 1em;
+}
+
+
+.card__img__1 {
+    width: 100%;
+    height: 150px;
+    background-image: url(/img/Portada_blog_ventajas_power_bi.png);
+    background-size: cover;
+}
+
+.card__img__2 {
+    width: 100%;
+    height: 150px;
+    background-size: cover;
+}
+
+.card__img__3 {
+    width: 100%;
+    height: 150px;
+    background-image: url(/img/blog-QA-Testing.jpg);
+    background-size: cover;
+}
+
+.card__title {
+    padding: 20px;
+}
+
+
+.card__projects-links {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card__projects-links a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+.card__projects-links i {
+    font-size: 1.5em;
+}
+
+
+.card__projects-links {
+    margin: 0 auto;
+    margin: 1em;
+    width: 70%;
+}
+
+
+.card .project-details a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+}
+
+.project-details-content {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 1em;
+}
+
 
 
 
