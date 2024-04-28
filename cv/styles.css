@@ -298,6 +298,51 @@ span {
 }
 
 
+/* ---------------Footer----------------------------- */
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(218, 109, 25);
+}
+
+.footer-content h2 {
+    font-size: 3em;
+}
+
+.footer-content h5,
+.social-network {
+    font-size: 1.5em;
+}
+
+.social-network {
+    display: flex;
+    justify-content: space-evenly;
+    width: 300px;
+    margin-top: 0.5em;
+}
+
+
+.social-network a:hover {
+    background-color: rgb(186, 69, 1);
+    box-shadow: none;
+}
+
+.social-network a {
+    padding: 5px 10px;
+    color: black;
+    background-color: rgb(218, 109, 25);
+    border: none;
+    border-radius: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    box-shadow: 1px 3px 11px -5px rgb(225, 103, 10);
+}
+
 
 
 
