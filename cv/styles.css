@@ -68,7 +68,36 @@ body {
 }
 
 
+h1 {
+    font-size: 3em;
 
+}
+
+.info-content {
+    margin: 1.9em;
+
+}
+
+span {
+    color: rgb(218, 109, 25)
+}
+
+
+.download-cv {
+    padding: 10px 20px;
+    background-color: rgb(218, 109, 25);
+    border: none;
+    border-radius: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    box-shadow: 1px 3px 11px -5px rgb(225, 103, 10);
+}
+
+
+.download-cv:hover {
+    background-color: #fff;
+    box-shadow: none;
+}
 
 
 
